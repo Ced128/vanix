@@ -1,8 +1,9 @@
 # gridify
 
-Gridify est un framework javascript open-source sous licence MIT conçu pour la création d'applications web modernes.
+Gridify est un framework javascript open-source conçu pour la création d'applications web modernes (Progressive Web Apps).
+Le projet est développé et maintenu par Cedric Rios et est disponible sous licence MIT.
 Il s'appuit sur une grille pour créer des pages élégantes adaptables à tous les écrans et pixel perfect (ce que vous dessinez est reproduit à l'identique).
-La création d'un projet doit commencer par une maquette vectorielle prédéfinie sous inkscape (fournie).
+La création d'un projet doit commencer par l'édition de maquettes vectorielles préconfigurées sous [inkscape](https://inkscape.org/fr/) (fournies).
 
 Les fonctionnalités clés de Gridify incluent par exemple : 
 
@@ -15,11 +16,11 @@ Les fonctionnalités clés de Gridify incluent par exemple :
  - Adaptation progressive à la taille est au ratio d'écran
  - Préprocessing relationnel
 
-Le projet est développé et maintenu par Cedric Rios et est disponible sous licence MIT.
-
 En chantier :
   
-  - Démo : https://web-marseille.com
   - Guide d'utilisation
-  - Optimisation : Remplacement de tous les addEventLister des boutons par un seul via target
-  - Réorganisation : Changement d'emplacement de répertoires et de fichiers (Moteur VS Applications individuelles)
+  - Démo : https://web-marseille.com
+  - Optimisation :
+     - Suppression de l'addEventLister des boutons (remplacés par un seul - via target)
+     - Changement d'emplacement de répertoires et de fichiers (Moteur VS Applications individuelles)
+     - Persistance de l'application côté navigateur (Progressive Web Apps)
