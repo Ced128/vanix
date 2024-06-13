@@ -1,7 +1,7 @@
 # vanix
 
 Vanix est la contraction de vanilla (http://vanilla-js.com) et de matrix.
-Il s'appuit sur du code vanilla et une matrice dynamique pour générer côté navigateur, une interaface qui s'adapte à quatre formats d'écrans, tout en restant pixel perfect. Ainsi ce que vous dessinez est reproduit à l'identique au pixel près, quelque soit le navigateur.
+Il s'appuit sur du code vanilla et une matrice dynamique pour générer (côté navigateur) une interaface qui s'adapte à quatre formats d'écrans. De plus, ce qui est dessiné est reproduit à l'identique au pixel près ("pixel perfect"), quelque soit le navigateur.
 
 Le framework est open-source (disponible sous licence MIT).
 
