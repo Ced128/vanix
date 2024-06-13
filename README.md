@@ -1,8 +1,10 @@
 # vanix
 
-Vanix est un framework javascript open-source conçu pour la création d'applications web orientées avant tout vers l'élégance et la performance.
-Le projet est développé, maintenu rendu et disponible sous licence MIT.
-Il s'appuit sur une grille pour créer des pages adaptables à tous les écrans et pixel perfect (ce que vous dessinez est reproduit à l'identique au pixel près).
+Vanix est la contraction de vanilla (http://vanilla-js.com) et de matrix.
+Il s'appuit sur du code vanilla et une matrice dynamique pour générer côté navigateur, une interaface qui s'adapte à quatre formats d'écrans, tout en restant pixel perfect. Ainsi ce que vous dessinez est reproduit à l'identique au pixel près, quelque soit le navigateur.
+
+Le framework est open-source (disponible sous licence MIT).
+
 La création d'un projet doit débuter de préférence par la conception d'une maquette vectorielle (fichier préconfiguré base.svg fourni). Pour ce faire, il est recommandé d'utiliser [inkscape](https://inkscape.org/fr/).
 
 Les fonctionnalités clés de vanix incluent par exemple : 
